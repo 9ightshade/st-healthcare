@@ -1,9 +1,18 @@
+import { Button } from "@/components/ui/button";
+
+
 export default function Home() {
   return (
-    <div>
-      <h1 className="text-5xl underline" >
-        Home
-      </h1>
+    <div className="flex h-screen max-h-screen" >
+      <section className="remove-scrollbar container my-auto" >
+        
+        <div className="sub-container max-w-[496px]" >
+          <image
+          
+          />
+
+        </div>
+</section>
    </div>
 
   );
